@@ -3,8 +3,10 @@
 ### Hi There 👋 I'm George
 
 [![https://www.linkedin.com/in/george-alshaer](https://img.shields.io/badge/follow%20me-linkedin-blue?style=for-the-badge)](https://www.linkedin.com/in/george-alshaer)
+<!--
 [![](https://img.shields.io/badge/visit-website-orange?style=for-the-badge)]()
 [![https://github.com/EngGeorge](https://img.shields.io/badge/See-MyWork-blue?style=for-the-badge)](https://github.com/EngGeorge)
+-->
 [![georgealshaer946@gmail.com](https://img.shields.io/static/v1?label=email&message=me&color=red&logo=gmail&style=for-the-badge&logoColor=white)](mailto:georgealshaer946@gmail.com)
 
 👨‍💻 Flutter Mobile Application Developer.
@@ -14,7 +16,7 @@
 
 
 <!--
-**ageelbaraa/ageelbaraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**EngGeorge/EngGeorge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
