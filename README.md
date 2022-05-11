@@ -9,7 +9,7 @@
 
 👨‍💻 Flutter Mobile Application Developer.
 
-<img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" alt="Flutter" width="20" height="20"> You can find some of my projects here on my GitHub mainly in Documentation-Clerk.
+<img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" alt="Flutter" width="20" height="20"> You can find some of my projects here on my GitHub mainly in Documentation-Clerk, and Flutter(Comming Soon).
 
 
 
@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 
 <p > 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/ageelbaraa/count.svg" />
+  <img src="https://profile-counter.glitch.me/EngGeorge/count.svg" />
 </p>
